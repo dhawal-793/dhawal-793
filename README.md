@@ -53,7 +53,7 @@ Apart from coding I loves to play Badminton and Football, and I also loves swimm
 <a href="https://github.com/dhawal-793/dhawal-793">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=The-Sparks-Foundation-Internship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/dhawal-793/dhawal-793">
+<a href="https://github.com/dhawal-793/Command-line-application-for-Task-Management">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Command-line-application-for-Task-Management&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
