@@ -44,13 +44,13 @@ Apart from coding I loves to play Badminton and Football, and I also loves swimm
 <a href="https://github.com/dhawal-793/dhawal-793">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhawal-793&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dhawal's GitHub Stats" />
 </a><br>
-<a href="https://github.com/dhawal-793/dhawal-793">
+<a href="https://github.com/dhawal-793/Skill-India-ML-AI-Internship-Inventory-Management-System">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Skill-India-ML-AI-Internship-Inventory-Management-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/dhawal-793/dhawal-793">
+<a href="https://github.com/dhawal-793/Simple-Interest-Calculator-Assignment-Coursera-IBM">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Simple-Interest-Calculator-Assignment-Coursera-IBM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/dhawal-793/dhawal-793">
+<a href="https://github.com/dhawal-793/The-Sparks-Foundation-Internship">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=The-Sparks-Foundation-Internship&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/dhawal-793/Command-line-application-for-Task-Management">
