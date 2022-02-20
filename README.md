@@ -72,5 +72,4 @@ Apart from coding I loves to play Badminton and Football, and I also loves swimm
 <a href="https://www.kaggle.com/dhawalvijayvargiya" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Cib-kaggle_%28CoreUI_Icons_v1.0.0%29.svg" alt="dhawal-793" height="40" width="45" /></a>
 <a href="https://www.codechef.com/users/dhawal_793" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="dhawal-793" height="45" width="45" /></a>
 <!--<a href="https://instagram.com/793_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhawal-793" height="30" width="40" /></a> -->
-
 </p>
