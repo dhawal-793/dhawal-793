@@ -19,11 +19,11 @@
 
 <h3 align="left">🔗&nbsp;Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhawal-vijayvargiya-188683214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhawal-vijayvargiya-188683214" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/http://codechef.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="http://codechef.com/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vijaydhawal901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vijaydhawal901" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dhawal_793/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhawal_793/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vijaydhawal901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vijaydhawal901" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhawal-vijayvargiya-188683214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhawal-vijayvargiya-188683214" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dhawal_793/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="http://codechef.com/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vijaydhawal901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vijaydhawal901" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhawal_793/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhawal_793/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vijaydhawal901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vijaydhawal901" height="30" width="40" /></a>
 </p>
 
 ----
@@ -63,10 +63,12 @@
 ----
 
 ## 🔗 &nbsp;**Connect with me**
+
 <p align="left">
-<a href="https://www.linkedin.com/in/dhawal-vijayvargiya-188683214/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="dhawal-793" height="38" width="38" /></a>
-<a href="https://stackoverflow.com/users/17684111/dhawal-793" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="dhawal-793" height="45" width="45" /></a>
-<a href="https://www.kaggle.com/dhawalvijayvargiya" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Cib-kaggle_%28CoreUI_Icons_v1.0.0%29.svg" alt="dhawal-793" height="40" width="45" /></a>
-<a href="https://www.codechef.com/users/dhawal_793" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" alt="dhawal-793" height="45" width="45" /></a>
-<!--<a href="https://instagram.com/793_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhawal-793" height="30" width="40" /></a> -->
+<a href="vijaydhawal9000@gmail.com" target-"blank"><img align="center" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="vijaydhawal9000@gmail.com" height="25" width="32"/></a>
+<a href="https://linkedin.com/in/dhawal-vijayvargiya-188683214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhawal-vijayvargiya-188683214" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dhawal_793/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="http://codechef.com/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vijaydhawal901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vijaydhawal901" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dhawal_793/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhawal_793/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vijaydhawal901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vijaydhawal901" height="30" width="40" /></a>
 </p>
