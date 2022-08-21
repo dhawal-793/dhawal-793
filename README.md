@@ -292,6 +292,12 @@
 
 
 ## &#x270d; Some of my Work
+<a href="https://github.com/dhawal-793/Font-Awesome-Clone">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Font-Awesome-Clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/dhawal-793/News-Panda">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=News-Panda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/dhawal-793/E-Commerce-Website-Front-End-Design">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=E-Commerce-Website-Front-End-Design&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
