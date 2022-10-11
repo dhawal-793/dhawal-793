@@ -294,6 +294,11 @@
 ## &#x270d; Some of my Work
 <a href="https://github.com/dhawal-793/Font-Awesome-Clone">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Font-Awesome-Clone&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
+ <a href="https://github.com/dhawal-793/Simon-Game">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Simon-Game&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
+</a>
+ <a href="https://github.com/dhawal-793/News-Panda">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=News-Panda&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
 <a href="https://github.com/dhawal-793/TextUtils">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=TextUtils&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
@@ -307,14 +312,8 @@
 <a href="https://github.com/dhawal-793/Command-line-application-for-Task-Management">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Command-line-application-for-Task-Management&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
-<a href="https://github.com/dhawal-793/The-Sparks-Foundation-Internship">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=The-Sparks-Foundation-Internship&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
-</a>
-<a href="https://github.com/dhawal-793/Skill-India-ML-AI-Internship-Inventory-Management-System">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Skill-India-ML-AI-Internship-Inventory-Management-System&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
-</a>
-<a href="https://github.com/dhawal-793/Skill-India-ML-AI-Internship-Summer-Olympics-Analysis">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Skill-India-ML-AI-Internship-Summer-Olympics-Analysis&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
+<a href="https://github.com/dhawal-793/Wordcloud-maker">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Wordcloud-maker&title_color=000000&text_color=111111&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
 
 ----
