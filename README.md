@@ -1,3 +1,9 @@
+<p align=center>
+<!-- <img src="https://github.com/dhawal-793/dhawal-793/blob/main/banner.png?raw=true"> -->
+
+![](https://github.com/dhawal-793/dhawal-793/blob/main/banner.png)
+</p>
+
 <h1 align="center">Hi 👋, I'm Dhawal Vijayvargiya</h1>
 <h3 align="center" width="40%"> 🖥️ Coding Enthusiast and MERN Stack developer</h3>
 <p align="center">
@@ -114,28 +120,35 @@ You can view all of my Projects <a href="https://github.com/dhawal-793">Here</a>
     <img src="https://komarev.com/ghpvc/?username=dhawal-793&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align=center >
-    <img align=center  src="https://github-profile-trophy.vercel.app/?username=dhawal-793&column=6&margin-w=12&margin-h=12&no-bg=true" alt="dhawal-793" display=block width=550px alt="Dhawal's Github Profile Trophies"/>
+    <img align=center  src="https://github-profile-trophy.vercel.app/?username=dhawal-793&column=6&margin-w=12&margin-h=12&theme=tokyonight" alt="dhawal-793" display=block width=550px alt="Dhawal's Github Profile Trophies"/>
 </p>
 <p align=center>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhawal-793&theme=tokyonight"  display=block width=550px alt="Dhawal's Github Profile Summary" >
 </p>
 <p align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=dhawal-793&show_icons=true&hide_border=true&theme=tokyonight" alt="dhawal-793" display=block width=275px alt="Dhawal's Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhawal-793&langs_count=10&layout=compact&hide_border=true&theme=tokyonight" alt="dhawal-793" display=block width=275px alt="Dhawal's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dhawal-793&show_icons=true&theme=tokyonight" alt="dhawal-793" display=block width=550px alt="Dhawal's Github Stats" />
 </p>
 <p align=center>
-    <img src="https://activity-graph.herokuapp.com/graph?username=dhawal-793&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="dhawal-793" display=block width=550px alt="Dhawal's Github Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhawal-793&theme=tokyonight" alt="Dhawal's GitHub Streak" display=block width=275px />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhawal-793&langs_count=10&layout=compact&theme=tokyonight" alt="dhawal-793" display=block width=275px alt="Dhawal's Top Languages" />
 </p>
-
 
 <h1 align="center">&#x270d; Some of My Work</h1>
 
 <p align=center>
+    <a href="https://github.com/dhawal-793/Ur-Notes">
+       <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Ur-Notes&cache_seconds=86400&theme=tokyonight" />
+    </a>
     <a href="https://github.com/dhawal-793/Font-Awesome-Clone">
         <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Font-Awesome-Clone&cache_seconds=86400&theme=tokyonight" />
-    </a>
+    </a> 
+</p>
+<p align=center>
     <a href="https://github.com/dhawal-793/Simon-Game">
         <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Simon-Game&cache_seconds=86400&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/dhawal-793/MEEN-TODO-APP">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=MEEN-TODO-APP&cache_seconds=86400&theme=tokyonight" />
     </a>
 </p>
 <p align=center>
@@ -162,7 +175,6 @@ You can view all of my Projects <a href="https://github.com/dhawal-793">Here</a>
         <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Wordcloud-maker&cache_seconds=86400&theme=tokyonight" />
     </a>
 </p>
-
 
 ---
 
