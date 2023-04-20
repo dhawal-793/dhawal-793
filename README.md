@@ -2,7 +2,11 @@
 <!-- <img src="https://github.com/dhawal-793/dhawal-793/blob/main/banner.png?raw=true"> -->
 
 ![](https://github.com/dhawal-793/dhawal-793/blob/main/banner.png)
- <img align="center" src="https://github.com/dhawal-793/dhawal-793/blob/output/github-contribution-grid-snake.svg" />
+ 
+</p>
+
+<p align=center>
+<img align="center" src="https://github.com/dhawal-793/dhawal-793/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhawal Vijayvargiya</h1>
