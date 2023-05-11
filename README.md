@@ -13,10 +13,11 @@
 <h3 align="center" width="40%"> 🖥️ Coding Enthusiast and MERN Stack developer</h3>
 <p align="center">
 I’m a Web Developer, currently pursuing B.C.A. from Mohanlal Sukhadia University, Udaipur.</br>
-Upskilling myself by Upgrading My TechStack, Currently working on MERN Ecommerce website.</br>
- 💬 Ask me about Javascript, react, python, PHP</br>
-You can view all of my Projects <a href="https://github.com/dhawal-793">Here</a></br>
-Visit My Personal Portfolio <a href="https://dhawal-793-portfolio.onrender.com/"> dhawal-793</a>.</br>
+Mostly Work on Frontend with ReactJs and TailwindCSS, and Backend with MERN Stack and NextJs. </br>
+Trying to Upskill myself by Learning new technologies and Upgrading My TechStack.</br> 
+Currently working on NextJs News App and NextJs Chat APP.</br>
+💬 Ask me anything about Javascript, react, Tailwind CSS, NextJS, python, PHP</br>
+View my Projects <a href="https://github.com/dhawal-793">Here</a> | Visit My Personal Portfolio <a href="https://dhawal-793-portfolio.onrender.com/"> dhawal-793</a>.</br>
 </p>
 </br>
 
