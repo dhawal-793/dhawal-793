@@ -1,5 +1,7 @@
 <p align=center>
 <!-- <img src="https://github.com/dhawal-793/dhawal-793/blob/main/banner.png?raw=true"> -->
+ 
+![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)
 
 ![](https://github.com/dhawal-793/dhawal-793/blob/main/banner.png)
  
