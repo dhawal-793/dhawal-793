@@ -125,21 +125,24 @@ View my Projects <a href="https://github.com/dhawal-793">Here</a> | Visit My Per
 </br></br></br>
 
 <h1 align="center"> &#x1f4c8; My GitHub Stats</h1>
-<p align="center" display="block" width="550px">
+<p align="center" display="block" width="650px">
     <img src="https://komarev.com/ghpvc/?username=dhawal-793&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align=center >
-    <img align=center  src="https://github-profile-trophy.vercel.app/?username=dhawal-793&column=6&margin-w=12&margin-h=12&theme=tokyonight" alt="dhawal-793" display=block width=550px alt="Dhawal's Github Profile Trophies"/>
+    <img align=center  src="https://github-profile-trophy.vercel.app/?username=dhawal-793&column=6&margin-w=12&margin-h=12&theme=tokyonight" alt="dhawal-793" display=block width=650px alt="Dhawal's Github Profile Trophies"/>
 </p>
 <p align=center>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhawal-793&theme=tokyonight"  display=block width=550px alt="Dhawal's Github Profile Summary" >
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhawal-793&theme=tokyonight"  display=block width=650px alt="Dhawal's Github Profile Summary" >
 </p>
 <p align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=dhawal-793&show_icons=true&theme=tokyonight" alt="dhawal-793" display=block width=550px alt="Dhawal's Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dhawal-793&show_icons=true&theme=tokyonight" alt="dhawal-793" display=block width=650px alt="Dhawal's Github Stats" />
 </p>
 <p align=center>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhawal-793&theme=tokyonight" alt="Dhawal's GitHub Streak" display=block width=275px />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhawal-793&langs_count=10&layout=compact&theme=tokyonight" alt="dhawal-793" display=block width=275px alt="Dhawal's Top Languages" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=dhawal-793&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" display=block width=650px  />
+</p>
+<p align=center>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhawal-793&theme=tokyonight" alt="Dhawal's GitHub Streak" display=block width=400px />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhawal-793&langs_count=10&layout=compact&theme=tokyonight" alt="dhawal-793" display=block width=250px alt="Dhawal's Top Languages" />
 </p>
 
 <h1 align="center">&#x270d; Some of My Work</h1>
