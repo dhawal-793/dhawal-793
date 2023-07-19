@@ -17,7 +17,7 @@
 I’m a Web Developer, currently pursuing B.C.A. from Mohanlal Sukhadia University, Udaipur.</br>
 Mostly Work on Frontend with ReactJs and TailwindCSS, and Backend with MERN Stack and NextJs. </br>
 Trying to Upskill myself by Learning new technologies and Upgrading My TechStack.</br> 
-Currently workiNextJs Chat APP.</br>
+Currently working on NextJs Ecommerce Dashboard.</br>
 💬 Ask me anything about Javascript, react, Tailwind CSS, NextJS, python, PHP</br>
 View my Projects <a href="https://github.com/dhawal-793">Here</a> | Visit My Personal Portfolio <a href="https://dev-folio-793.vercel.app" target="_blank">DevFolio</a>.</br>
 </p>
