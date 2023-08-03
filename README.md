@@ -147,6 +147,14 @@ View my Projects <a href="https://github.com/dhawal-793">Here</a> | Visit My Per
 
 <h1 align="center">&#x270d; Some of My Work</h1>
 <p align=center>
+    <a href="https://github.com/dhawal-793/ecommerce-dashboard">
+       <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=ecommerce-dashboard&cache_seconds=86400&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/dhawal-793/Dev_Store">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Dev_Store&cache_seconds=86400&theme=tokyonight" />
+    </a> 
+</p>
+<p align=center>
     <a href="https://github.com/dhawal-793/DevFolio">
        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=DevFolio&cache_seconds=86400&theme=tokyonight" />
     </a>
