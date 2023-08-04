@@ -1,9 +1,7 @@
 <p align=center>
-<!-- <img src="https://github.com/dhawal-793/dhawal-793/blob/main/banner.png?raw=true"> -->
- 
-![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)
+<!-- ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif) -->
 
-![](https://github.com/dhawal-793/dhawal-793/blob/main/banner.png)
+![](https://user-images.githubusercontent.com/88284372/258488952-93a91f7b-2fee-476c-b098-cb00ebeabb12.png)
  
 </p>
 
@@ -11,7 +9,7 @@
 <img align="center" src="https://github.com/dhawal-793/dhawal-793/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhawal Vijayvargiya</h1>
+<h1 align="center">Hi <img align="center" width="35" height="35" margin-bottom="2" src="https://user-images.githubusercontent.com/88284372/258489485-d7074e4e-89ed-42b8-88e5-b384da4cae37.gif" />, I'm Dhawal Vijayvargiya</h1>
 <h3 align="center" width="40%"> 🖥️ Coding Enthusiast and MERN Stack developer</h3>
 <p align="center">
 I’m a Web Developer, currently pursuing B.C.A. from Mohanlal Sukhadia University, Udaipur.</br>
