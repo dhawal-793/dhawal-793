@@ -10,18 +10,36 @@
 </p>
 
 <h1 align="center">Hi <img align="center" width="35" height="35" margin-bottom="2" src="https://user-images.githubusercontent.com/88284372/258489485-d7074e4e-89ed-42b8-88e5-b384da4cae37.gif" />, I'm Dhawal Vijayvargiya</h1>
-<h3 align="center" width="40%"> 🖥️ Coding Enthusiast and MERN Stack developer</h3>
+<h3 align="center" width="40%"> 🖥️ Coding Enthusiast and Front-End Developer</h3>
 <p align="center">
 I’m a Web Developer, currently pursuing B.C.A. from Mohanlal Sukhadia University, Udaipur.</br>
 Mostly Work on Frontend with ReactJs and TailwindCSS, and Backend with MERN Stack and NextJs. </br>
 Trying to Upskill myself by Learning new technologies and Upgrading My TechStack.</br> 
 Currently Learning React Native and DotNet</br>
-💬 Ask me anything about Javascript, react, Tailwind CSS, NextJS, python, PHP</br>
+💬 Ask me anything about Javascript, react, Tailwind CSS, NextJS</br>
 View my Projects <a href="https://github.com/dhawal-793">Here</a> | Visit My Personal Portfolio <a href="https://dev-folio-793.vercel.app" target="_blank">DevFolio</a>.</br>
 </p>
+<h3 align="center">My TechStack:</h3>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+</br>
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+
+</div>
 </br>
 
-<h2 align="center"> 🖥️ My Tech Stack</h2>
+<h2 align="center"> 🖥️ Technologies I have work with</h2>
 <div align="center" width="550px" border="2px solid red">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
