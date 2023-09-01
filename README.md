@@ -12,7 +12,7 @@
 <h1 align="center">Hi <img align="center" width="35" height="35" margin-bottom="2" src="https://user-images.githubusercontent.com/88284372/258489485-d7074e4e-89ed-42b8-88e5-b384da4cae37.gif" />, I'm Dhawal Vijayvargiya</h1>
 <h3 align="center" width="40%"> 🖥️ Coding Enthusiast and Front-End Developer</h3>
 <p align="center">
-I’m a Web Developer, currently pursuing B.C.A. from Mohanlal Sukhadia University, Udaipur.</br>
+Recently Graduated Web Developer, looking for Opportunities </br>
 Mostly Work on Frontend with ReactJs and TailwindCSS, and Backend with MERN Stack and NextJs. </br>
 Trying to Upskill myself by Learning new technologies and Upgrading My TechStack.</br> 
 Currently Learning React Native and DotNet</br>
@@ -75,8 +75,6 @@ View my Projects <a href="https://github.com/dhawal-793">Here</a> | View My Pers
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=plastic&logo=linode&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)
@@ -111,6 +109,8 @@ View my Projects <a href="https://github.com/dhawal-793">Here</a> | View My Pers
 <a href="https://www.udemy.com/user/dhawal-vijayvargiya/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white" alt="Udemy"></a>
 <a href="https://in.coursera.org/user/ea0caaa11ff1e664d439c14aaf72a5cc" target="_blank"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=whitee" alt="Coursera"></a>
 <a href="https://codepen.io/dhawal-793" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=plastic&logo=codepen&logoColor=white" alt="CodePen"></a>
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black)
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
@@ -127,9 +127,7 @@ View my Projects <a href="https://github.com/dhawal-793">Here</a> | View My Pers
 <a href="https://learn.udacity.com/" target="_blank"><img src="https://img.shields.io/badge/Udacity-grey?style=plastic&logo=udacity&logoColor=15B8E6" alt="Udacity"></a>
 <a href="https://stackoverflow.com/users/17684111/dhawal-793" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" alt="StackOverflow"></a>
 <a href="https://www.freecodecamp.org" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=plastic&logo=freecodecamp&logoColor=green" alt="FreeCodeCamp"></a>
-<a href="https://developer.mozilla.org" target="_blank"><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=plastic&logo=mdnwebdocs&logoColor=white" alt="MDN"></a> -->
-
-<!--
+<a href="https://developer.mozilla.org" target="_blank"><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=plastic&logo=mdnwebdocs&logoColor=white" alt="MDN"></a>
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=plastic&logo=Quora&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=plastic&logo=Codeforces&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white)
@@ -180,8 +178,8 @@ View my Projects <a href="https://github.com/dhawal-793">Here</a> | View My Pers
     </a> 
 </p>
 <p align=center>
-    <a href="https://github.com/dhawal-793/Ur-Notes">
-       <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Ur-Notes&cache_seconds=86400&theme=tokyonight" />
+    <a href="https://github.com/dhawal-793/Dev_Notes">
+       <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Dev_Notes&cache_seconds=86400&theme=tokyonight" />
     </a>
     <a href="https://github.com/dhawal-793/Font-Awesome-Clone">
         <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=dhawal-793&repo=Font-Awesome-Clone&cache_seconds=86400&theme=tokyonight" />
