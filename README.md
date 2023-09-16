@@ -12,11 +12,11 @@
 <h1 align="center">Hi <img align="center" width="35" height="35" margin-bottom="2" src="https://user-images.githubusercontent.com/88284372/258489485-d7074e4e-89ed-42b8-88e5-b384da4cae37.gif" />, I'm Dhawal Vijayvargiya</h1>
 <h3 align="center" width="40%"> 🖥️ Coding Enthusiast and Front-End Developer</h3>
 <p align="center">
-Recently Graduated Web Developer, looking for Opportunities </br>
+Pursuing Masters of Computer Applications at Geetanjali Institute of Technical Studies </br>
 Mostly Work on Frontend with ReactJs and TailwindCSS, and Backend with MERN Stack and NextJs. </br>
 Trying to Upskill myself by Learning new technologies and Upgrading My TechStack.</br> 
-Currently Learning React Native and DotNet</br>
-💬 Ask me anything about Javascript, react, Tailwind CSS, NextJS</br>
+Currently Learning React Native and DotNet.</br>
+💬 Ask me about Javascript, React, Tailwind CSS, NextJS.</br>
 View my Projects <a href="https://github.com/dhawal-793">Here</a> | View My Personal Portfolio at <a href="https://dev-folio-793.vercel.app" target="_blank">@DevFolio</a>.</br>
 </p>
 <h3 align="center">My TechStack:</h3>
