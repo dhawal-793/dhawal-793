@@ -12,7 +12,7 @@
 <h1 align="center">Hi <img align="center" width="35" height="35" margin-bottom="2" src="https://user-images.githubusercontent.com/88284372/258489485-d7074e4e-89ed-42b8-88e5-b384da4cae37.gif" />, I'm Dhawal Vijayvargiya</h1>
 <h3 align="center" width="40%"> 🖥️ Coding Enthusiast and DevOps Developer</h3>
 <p align="center">
-DevOps Intern @ GKMIT, Udaipur Pvt. Ltd. </br>
+Jr. DevOps Engineer @ GKMIT, Udaipur Pvt. Ltd. </br>
 Pursuing Masters of Computer Applications at Geetanjali Institute of Technical Studies </br>
 Trying to Upskill myself by Learning new technologies and Upgrading My TechStack.</br> 
 Currently Learning various Tools and Technologies related to DevOps.</br>
