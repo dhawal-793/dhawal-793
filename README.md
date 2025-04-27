@@ -16,7 +16,7 @@ Jr. DevOps Engineer @ Spark18, Udaipur Pvt. Ltd. </br>
 Pursuing Masters of Computer Applications at Geetanjali Institute of Technical Studies </br>
 Trying to Upskill myself by Learning new technologies and Upgrading My TechStack.</br> 
 Currently Learning various Tools and Technologies related to DevOps.</br>
-View my Projects <a href="https://github.com/dhawal-793">Here</a> | View My Personal Portfolio at <a href="https://portfolio.dhawal.in.net" target="_blank">@DevFolio</a>.</br>
+View my Projects <a href="https://github.com/dhawal-793">Here</a> | View My Personal Portfolio at <a href="https://dhawal.in.net" target="_blank">@DevFolio</a>.</br>
 </p>
 <h3 align="center">My TechStack:</h3>
 
